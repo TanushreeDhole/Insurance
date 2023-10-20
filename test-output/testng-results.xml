@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-15T22:19:02 IST" name="Default suite" finished-at="2023-10-15T22:19:16 IST" duration-ms="13956">
+    <groups>
+    </groups>
+    <test started-at="2023-10-15T22:19:02 IST" name="Default test" finished-at="2023-10-15T22:19:16 IST" duration-ms="13956">
+      <class name="com.Facebook.Test.SignInTests">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.Facebook.Test.SignInTests@2892d68]" started-at="2023-10-15T22:19:02 IST" name="beforeMethod" finished-at="2023-10-15T22:19:06 IST" duration-ms="3811" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Facebook.Test.SignInTests.loginwithValidCredentials()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginwithValidCredentials()[pri:1, instance:com.Facebook.Test.SignInTests@2892d68]" started-at="2023-10-15T22:19:06 IST" name="loginwithValidCredentials" finished-at="2023-10-15T22:19:06 IST" duration-ms="566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithValidCredentials -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.Facebook.Test.SignInTests@2892d68]" started-at="2023-10-15T22:19:06 IST" name="beforeMethod" finished-at="2023-10-15T22:19:08 IST" duration-ms="2227" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Facebook.Test.SignInTests.loginwithInvalidEmail()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginwithInvalidEmail()[pri:2, instance:com.Facebook.Test.SignInTests@2892d68]" started-at="2023-10-15T22:19:08 IST" name="loginwithInvalidEmail" finished-at="2023-10-15T22:19:09 IST" duration-ms="511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithInvalidEmail -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.Facebook.Test.SignInTests@2892d68]" started-at="2023-10-15T22:19:09 IST" name="beforeMethod" finished-at="2023-10-15T22:19:11 IST" duration-ms="2543" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Facebook.Test.SignInTests.loginwithInvalidPassword()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginwithInvalidPassword()[pri:3, instance:com.Facebook.Test.SignInTests@2892d68]" started-at="2023-10-15T22:19:11 IST" name="loginwithInvalidPassword" finished-at="2023-10-15T22:19:12 IST" duration-ms="500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithInvalidPassword -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.Facebook.Test.SignInTests@2892d68]" started-at="2023-10-15T22:19:12 IST" name="beforeMethod" finished-at="2023-10-15T22:19:14 IST" duration-ms="2413" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Facebook.Test.SignInTests.loginwithBlankCredentials()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginwithBlankCredentials()[pri:4, instance:com.Facebook.Test.SignInTests@2892d68]" started-at="2023-10-15T22:19:14 IST" name="loginwithBlankCredentials" finished-at="2023-10-15T22:19:16 IST" duration-ms="1286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithBlankCredentials -->
+      </class> <!-- com.Facebook.Test.SignInTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
